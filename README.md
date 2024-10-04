@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor Page](https://your-solution-url.com)
-- Live Site URL: [GitHub Live](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor Page]()
+- Live Site URL: [GitHub Live]()
 
 ## My process
 
