@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor Page]()
-- Live Site URL: [GitHub Live]()
+- Solution URL: [Frontend Mentor Page](https://www.frontendmentor.io/solutions/sociallinks---htmltailwindcss-MvReQDsQK1)
+- Live Site URL: [GitHub Live](https://palorobe.github.io/FrontendMentor-SocialiLinks/)
 
 ## My process
 
